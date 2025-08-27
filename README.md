@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/L4-2/MODulo-Northstar/blob/main/7neg-Recovered.png?raw=true)
 ##
 
 ## Authors
