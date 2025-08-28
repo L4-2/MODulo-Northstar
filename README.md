@@ -1,4 +1,5 @@
-![Logo](https://github.com/L4-2/MODulo-Northstar/blob/main/7neg-Recovered.png?raw=true)
+![Logo](https://raw.githubusercontent.com/L4-2/MODulo-Northstar/refs/heads/main/7neg-Recovered.png)
+##
 
 ## Authors
 
@@ -12,4 +13,6 @@
 # Northstar
 
 A brief description of what this project does and who it's for
+
+![PCB](https://github.com/L4-2/MODulo-Northstar/blob/main/Screenshot%202025-08-27%20215550.png?raw=true)
 
