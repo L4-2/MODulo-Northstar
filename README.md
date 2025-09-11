@@ -12,7 +12,7 @@
 
 # Northstar
 
-A brief description of what this project does and who it's for
+This is the MODulo mouse development board. The Kicad project files are for Kicad 9.0 and above. You are free to use this design for your own use (non-commercial) as long as you credit here in some way.
 
 ![PCB](https://github.com/L4-2/MODulo-Northstar/blob/main/Screenshot%202025-08-27%20215550.png?raw=true)
 
