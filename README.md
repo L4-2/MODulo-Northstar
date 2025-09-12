@@ -16,3 +16,5 @@ This is the MODulo mouse development board. The Kicad project files are for Kica
 
 ![PCB](https://github.com/L4-2/MODulo-Northstar/blob/main/Screenshot%202025-08-27%20215550.png?raw=true)
 
+![3D Render](https://github.com/L4-2/MODulo-Northstar/blob/main/Screenshot%202025-09-12%20151613.png?raw=true)
+
